@@ -30,3 +30,4 @@
    -.net 6
    -angular 
    -nunit(for unit test and integration test).
+6- inside solarSystem folder you can find another readme file for second task Details
